@@ -1,0 +1,1384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new prognostication for the year of our Lord God, 1674 Being the second after leap-year. Wherein is contained the whole estate of the year in general, together with the eclipses of the sun and moon; as also some predictions of the four seasons of the year: and by what planets the year is governed; with the changes of the moon, and daily disposition of the weather. As also, the whole fairs of Scotland; with a ready table shewing the age of the moon every day throughout this year; serving most fitly for our ancient kingdom, but more properly for the honorable city of Edinburgh. Whose longitude is 21 d. 50 m. latitude 56 d. 4 m. By A. F. philomathet.</title>
+            <author>A. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24205</idno>
+            <idno type="STC">Wing A1656A</idno>
+            <idno type="STC">ESTC R213302</idno>
+            <idno type="EEBO-CITATION">99825727</idno>
+            <idno type="PROQUEST">99825727</idno>
+            <idno type="VID">30114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1803:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new prognostication for the year of our Lord God, 1674 Being the second after leap-year. Wherein is contained the whole estate of the year in general, together with the eclipses of the sun and moon; as also some predictions of the four seasons of the year: and by what planets the year is governed; with the changes of the moon, and daily disposition of the weather. As also, the whole fairs of Scotland; with a ready table shewing the age of the moon every day throughout this year; serving most fitly for our ancient kingdom, but more properly for the honorable city of Edinburgh. Whose longitude is 21 d. 50 m. latitude 56 d. 4 m. By A. F. philomathet.</title>
+                  <author>A. F.</author>
+               </titleStmt>
+               <extent>[14] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>printed for the year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30114:1" rendition="simple:additions"/>
+            <p>A NEW <hi>Prognoſtication</hi> For the Year of our LORD GOD, 1674.</p>
+            <p>Being the ſecond after <hi>LEAP-YEAR.</hi>
+            </p>
+            <p>Wherein is contained the whole Eſtate of the Year in general, together with the Eclipſes of the Sun and Moon; As alſo ſome Predictions of the four Sea<g ref="char:EOLhyphen"/>ſons of the year: And by what Planets the year is governed; With the Changes of the Moon, and daily Diſpoſition of the Weather. As alſo, the whole Fairs of SCOTLAND; With a ready Table ſhewing the Age of the Moon every day throughout this Year; ſerving moſt fitly for our Ancient Kingdom, but more properly for the Honorable City of <hi>Edinburgh.</hi> Whoſe Longitude in 21 d. 50. m. Latitude 56 d. 4 m.</p>
+            <p>By A. F. Philomather.</p>
+            <figure>
+               <figDesc>sky scene with hand holding a globe and another hand holding calipers</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed for the Year 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="timeline">
+            <pb facs="tcp:30114:2"/>
+            <head>A Succinct Computation of Memorable thing to this preſent Year, <hi>1674.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Creation of the World</cell>
+                     <cell>56<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since The Flood of <hi>Noah</hi>
+                     </cell>
+                     <cell>3967</cell>
+                  </row>
+                  <row>
+                     <cell>Since The deſtruction of <hi>Sodom</hi> &amp; <hi>Gomorrah</hi>
+                     </cell>
+                     <cell>3577</cell>
+                  </row>
+                  <row>
+                     <cell>Since The building of <hi>Rome</hi>
+                     </cell>
+                     <cell>2426</cell>
+                  </row>
+                  <row>
+                     <cell>Since The building of <hi>Edinburgh</hi> Caſtle</cell>
+                     <cell>2004</cell>
+                  </row>
+                  <row>
+                     <cell>Since <hi>Fergus</hi> the firſt King of <hi>Scotland</hi>
+                     </cell>
+                     <cell>2003</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Paſſion and Death of Chriſt</cell>
+                     <cell>1641</cell>
+                  </row>
+                  <row>
+                     <cell>Since The laſt deſtruction of Jeruſalem by <hi>Veſpaſian</hi>
+                     </cell>
+                     <cell>1605</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Chriſtian Faith was firſt received in <hi>Scotland</hi>
+                     </cell>
+                     <cell>1464</cell>
+                  </row>
+                  <row>
+                     <cell>Since The firſt Invention of Guns</cell>
+                     <cell>294</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Invention of Printing</cell>
+                     <cell>231</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Gun-powder Treaſon, <hi>Nov.</hi> 5</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>Since The great Plague in <hi>London,</hi> 1625</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Birth of King <hi>Charles</hi> the Firſt</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>Since The Birth of King <hi>Charles</hi> the Second</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Since The great Fire in <hi>London</hi>
+                     </cell>
+                     <cell>7</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="year_notes">
+            <p>
+               <table>
+                  <head>The Vulgar Notes for this Year. <hi>1674.</hi>
+                  </head>
+                  <row>
+                     <cell>THe Golden Number, or Prime is</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>The Epact</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The Cycle of the Sun</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Dominical Letter</cell>
+                     <cell>D</cell>
+                  </row>
+                  <row>
+                     <cell>Shrove-tueſday or Faſtens-Even</cell>
+                     <cell>
+                        <hi>March</hi> 2</cell>
+                  </row>
+                  <row>
+                     <cell>Paſch or Eaſter-day</cell>
+                     <cell>
+                        <hi>April</hi> 19</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcenſion day</cell>
+                     <cell>
+                        <hi>May</hi> 28</cell>
+                  </row>
+                  <row>
+                     <cell>Whitſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>day</cell>
+                     <cell>
+                        <hi>June</hi> 7</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is and Faſtens-Even, are juſt 28 day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> incluſive</p>
+         </div>
+         <div type="astrological_chart">
+            <pb facs="tcp:30114:2"/>
+            <head>The Anotomy of Mans Body, as the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof are governed by the 12 <hi>Signs.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>man surrounded by astrological symbols</figDesc>
+                  <p>♈ <hi>Aries,</hi> Head and Face.</p>
+                  <p>♉ <hi>Taurus,</hi> Neck &amp; Throat.</p>
+                  <p>♋ <hi>Cancer,</hi> Breaſt &amp; Ribs</p>
+                  <p>♍ <hi>Virgo,</hi> Bowels &amp; Belly</p>
+                  <p>♏ <hi>Scorpio</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecret members</p>
+                  <p>♑ <hi>Capri<g ref="char:EOLhyphen"/>cornus,</hi> the knees</p>
+                  <p>♓ <hi>Piſces,</hi> The Feet.</p>
+                  <p>♊ <hi>Gemini</hi> Arms &amp; ſhoulders</p>
+                  <p>♌ <hi>Leo,</hi> Heart &amp; Back.</p>
+                  <p>♎ <hi>Libra,</hi> Reins &amp; Loins.</p>
+                  <p>♐ <hi>Sagitta<g ref="char:EOLhyphen"/>rius,</hi> the Thigh.</p>
+                  <p>♒ <hi>Aquari<g ref="char:EOLhyphen"/>us,</hi> The Legs.</p>
+               </figure>
+            </p>
+            <div type="part">
+               <head>The Characters of the Planets and Aſpects.</head>
+               <p>♄, Saturn, ♃ Jupiter, ♂ Mars, ☉ Sol, ♀, Venus, ☿ Mercury, <g ref="char:Moon">☽</g> Luna.</p>
+               <p>☌ Conjunction, ⚹ Sextile, <g ref="char:quadrine">□</g> Quartile, <g ref="char:trine">△</g> Trine ☍ Oppoſition.</p>
+            </div>
+         </div>
+         <div type="chart_of_eclipses">
+            <pb facs="tcp:30114:3"/>
+            <head>Of the Eclipſes this Year, <hi>1674.</hi>
+            </head>
+            <p>THere will happen five Eclipſes this Year, <hi>viz.</hi> three of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and two of the <hi>Moon,</hi> but all of them inviſible to us, except one.</p>
+            <p>The firſt, is an Eclipſe of the <hi>Moon,</hi> which happens upon <hi>Munday,</hi> the 12 of <hi>June,</hi> about 5 aclock in the morning.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Hence at <hi>Edinburgh<g ref="char:punc">▪</g>
+                        </hi>
+                     </cell>
+                     <cell>H.</cell>
+                     <cell>M.</cell>
+                     <cell>S.</cell>
+                  </row>
+                  <row>
+                     <cell>The beginning of the Eclipſe is at</cell>
+                     <cell>15</cell>
+                     <cell>13</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>The greateſt Obſcuration is</cell>
+                     <cell>16</cell>
+                     <cell>45</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>The end of the Eclipſe is</cell>
+                     <cell>18</cell>
+                     <cell>18</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be an viſible Lunar Eclipſe to the inha<g ref="char:EOLhyphen"/>bitants of <hi>Sya<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Germany France, Holand, Denmark, Great Brittain</hi> and <hi>Ireland &amp;c.</hi>
+            </p>
+            <p>The ſecond is an Eclipſe of the <hi>Sun,</hi> the 26 of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> about 9 a clock at night. And therefore it will be inviſible to us, yet it may be ſeen in <hi>Ame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>The third is an Eclipſe of the <hi>Moon,</hi> the 7 day of <hi>July</hi> about 8 aclock at nigh, ſo that the <hi>Moon</hi> riſes E<g ref="char:EOLhyphen"/>clipſed<g ref="char:punc">▪</g> and though the beginning will not, yet the latter end will be viſible if clouds, &amp;c. interpoſe not</p>
+            <p>The fourth is an Eclipſe of the <hi>Sun,</hi> the 23 day of <hi>Jul,</hi> about 2 aclock in the morning. And the fifth and laſt is another Eclipſe of the <hi>Sun,</hi> about 5 in the morning; But becauſe theſe laſt Solar Eclipſes are inviſible to the inhabitans of <hi>Great Britt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> therefore I forbear to ſpeak any more of them.</p>
+         </div>
+         <div type="yearly_summary">
+            <pb facs="tcp:30114:3"/>
+            <head>A Brief deſcription of the four Quarters, Seaſons of this Year, <hi>1674.</hi>
+            </head>
+            <div n="spring" type="part">
+               <head>Of the Spring.</head>
+               <p>THe Spring Quarter begins at the entrance the <hi>Sun</hi> into the Equinoxial ſign <hi>Aries,</hi> whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is upon the 10 of <hi>March</hi> 20 min. paſt 4 in the mor<g ref="char:EOLunhyphen"/>ning, making the days and nights equal in length.</p>
+            </div>
+            <div n="summer" type="part">
+               <head>Of Summer.</head>
+               <p>SUmmer Quarter taketh its beginning when the <hi>Sun</hi> entreth the Tropical ſign <hi>Cancer,</hi> which is up<g ref="char:EOLhyphen"/>on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day of <hi>June,</hi> 4 min. paſt 7. in the morning when the days are at the longeſt.</p>
+            </div>
+            <div n="fall" type="part">
+               <head>Of Harveſt.</head>
+               <p>AUtumne or Harveſt Quarter, taketh its begin<g ref="char:EOLhyphen"/>ning when the <hi>Sun</hi> entreth the Equinoctial ſign <hi>Libra,</hi> which happeneth the 12 of <hi>September,</hi> 27. min. paſt 10. at night, the day and night being equal in length.</p>
+            </div>
+            <div n="winter" type="part">
+               <head>Of Winter.</head>
+               <p>VVinter Quarter taketh its beginning when the <hi>Sun</hi> entereth the Tropical ſign <hi>Capri<g ref="char:EOLhyphen"/>corn,</hi> which upon the 11 of <hi>December,</hi> 30. min paſt 10 in the morning, the days at that time being at the ſhorteſt, and the nights at the longeſt.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Lord of this Year and Quarters.</head>
+               <p>AT the deſire of certain Perſons I have ſet down here the Lord of the Year, or of this Annual re<g ref="char:EOLhyphen"/>volution, with the Lords of the Quarters, by e<g ref="char:EOLhyphen"/>recting figures, for the entrance of the ☉ <hi>Sun</hi> into the four Cardinal ſignes ♈ <hi>Aries</hi> ♋ <hi>Cancer</hi> ♎ <hi>Libra,</hi> ♑ <hi>Capricorn;</hi> and to the time of the Lunatious pre<g ref="char:EOLhyphen"/>ceeding and ſucceeding the ☉ <hi>Sun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> entrance into the ſame ſigns, which done, I find ♃ <hi>Jupiter</hi> Lord of the <hi>Spring,</hi> with ♄ <hi>Saturn</hi> partner. Secondly
+<pb facs="tcp:30114:4"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord of the <hi>Summer,</hi> and partner ♃ <hi>Jupiter.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, for <hi>Autumne,</hi> ♄ <hi>Saturn,</hi> and partner <g ref="char:Moon">☽</g> 
+                  <hi>Luna,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or the <hi>Winter,</hi> ♄ <hi>Saturn,</hi> Lord &amp; partner ♂ <hi>Mars,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nence for the Lord of the Year, I find ☉ <hi>Sun</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his two partners ☿ <hi>Mercurius</hi> and ♂ <hi>Mars.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erve, When ♄ <hi>Saturn</hi> is Lord of the year, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dignified, the people ſhal during that yea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> revolution, build and erect houſes, ſhal make many alterations in Fabricks, ſhal abound in all things, the Earth ſhal be fruitful, and the people <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al be in eſteem, and honored by their neighbors. And the Husband-men ſhal exceedingly increaſe their ſtore and wealth, and be ſuccesful in all their labors. But if he be watery and afflicted, there ſhal be much cold, great and grievous infirmities, and men ſhal ſuſtain much ſorrow loſſes and croſ<g ref="char:EOLhyphen"/>ſes; and great damnage by ſtorms and rain, and wind (but this muſt warrily be conſidered, if other ſignificators of weather concurr, thou may aſſuredly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onclude it to be ſo) ancients and old men, and wo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en ſhal die, and theſe things ſhal chiefly happen, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe places, Cities &amp; Regions, under ♄ <hi>Saturn</hi> his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominion, &amp; the dominion of the ſign which be doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſeſs. Secondly as he is accordingly placed in the 12 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oules (as in this revolution in the ſecond) &amp; if held <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the fortunat Aſpects of the Lord of the ſecond, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> denots the ſuccesful and proſperous condition of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> comon people in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rads and merchandiſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they ſhal thrive &amp; grow richt eſpecially in ſuch things as are ſignified by the ſign wherein the cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p of the ſecond is. If he be therein weak, imp<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unfor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unat, he ſhal ſignifie contrairy, and that the people ſhal be poor, have loſſes and croſſes, eſpe<g ref="char:EOLhyphen"/>cially in ſuch things as are ſingified by ♄ <hi>Saturn,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſign wherein he is, for according to the nature <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſign and planet therein muſt you give judge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt</p>
+            </div>
+         </div>
+         <div type="almanac">
+            <pb facs="tcp:30114:4"/>
+            <head>The exact day, hour and mi<g ref="char:EOLunhyphen"/>nut of the New Moon, her Full, and Quarters, the Riſing and Set<g ref="char:EOLhyphen"/>ting of the <hi>Sun,</hi> the firſt day of e<g ref="char:EOLhyphen"/>very Moneth: As alſo the daily diſpoſition of the Weather, for this Year, 1674.</head>
+            <div n="January" type="month">
+               <head>XXXI. January begins on Thurſday. Sun riſeth <hi>27</hi> min. before <hi>9.</hi> ſets <hi>27.</hi> min. after <hi>3.</hi>
+               </head>
+               <list>
+                  <item>Firſt quarter on munday 5 day, 13 minuts. paſt 6 morning.</item>
+                  <item>Full Moon on Munday 12 day, 27 minuts paſt 5 morning.</item>
+                  <item>Laſt quarter on Sunday 18 day, 45 minuts paſt 9 at night</item>
+                  <item>New Moon on Munday 26 day, 35 minuts paſt 8 at night.</item>
+               </list>
+               <p>
+                  <hi>This New year beginneth with ſnow or cain, to the</hi> 4 <hi>day, from thence to the</hi> 10 <hi>fair and froſtie.</hi> 12. 13, 14. <hi>ſnow,</hi> 22 <hi>and</hi> 23 <hi>tempeſtuous, to the end of this moneth froſtie with ſome ſnow.</hi>
+               </p>
+               <p>
+                  <hi>The firſt Fair in the year, is at Kilſyth the 1 day, S. Naugh<g ref="char:EOLhyphen"/>lanes, at the Kirk of Bethe lay in Gerry, upon the 7 day. S Mung<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Glaſgow the 13 day<g ref="char:punc">▪</g> And at Dunkel, and Kil<g ref="char:EOLhyphen"/>winning the</hi> 21 <hi>day.</hi>
+               </p>
+            </div>
+            <div n="February" type="month">
+               <head>XXVIII. February begins on Sunday. Sun riſeth <hi>30</hi> min. before <hi>8.</hi> ſets <hi>30</hi> min. paſt <hi>4.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Firſt quarter on Tueſday 3 day, 41 minuts paſt 9 at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Full Moon on Tueſday 10 day<g ref="char:punc">▪</g> 37 min. paſt 3 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Munday 16 day, 44 minuts before noon.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Wedneſday 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> day, 27 min. paſt 3 afternoon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with rain and ſnow, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtuous, to the 8 treaſonable winter weather, 9 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and ſnow, to the 15 <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ie. 16 17 ſnow an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                     <pb facs="tcp:30114:5"/>
+wind; to the 10 fair 20 21 wind and ſnow, the reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fair about the end rainy.</hi>
+               </p>
+               <p>At Aber<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hy and Forres in Murrayland, called <hi>S.</hi> Bride<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day 1. On Candlemaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day in Ramff, Dunkel, Dinge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a day. In Liddiſdail, the <hi>4.</hi> In Cowper of Fife the first wedneſday of this moneth: Valentines day at Linlithgow the 14 day and at Forfar the <hi>15</hi> day, holding eight days. Aſhwedneſdays fair beginneth on Faſtens-Evan, at La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erk the ſame day, at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y field <hi>24</hi> days.</p>
+            </div>
+            <div n="March" type="month">
+               <head>XXXI. March begins on Sunday. Sun riſeth <hi>42</hi> min. before 7, ſets <hi>42</hi> min. paſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</head>
+               <list>
+                  <item>
+                     <hi>Firſt quarter on Thurſday 5 day, 27 min. paſt 9 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full Moon on Thurſday 12 day, 5 min. paſt 1 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Thurſday 19 day, 33 min. paſt 3 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon Friday 27 day, at 8 in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begine with rain, 2 and 3 froſtie, 4 5 wind and rain, to the 7 fair, 8. 9, 10. ſtormie, to the end of the moneth reaſonable fair, with ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me froſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and ſnow, only about the 26 ſome rains, with cold weather.</hi>
+               </p>
+               <p>S. Monence in Aberdene, Dumfermling, Abercherder, and <hi>S.</hi> Marnoch kirk the 1 day, at Pettenwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <hi>S.</hi> Duthos <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Roſs the <hi>6</hi> day, on Auchtertuil the <hi>10</hi> day, <hi>S.</hi> Cauf<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho 11 day, a fair at Leven the <hi>15</hi> day. S. Patrick in Dumbartan, and at the kirk of Strag<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and at Kircaldy, a fair of Horſe, Neat and Sheep, &amp;c. the <hi>16</hi> day. In <hi>S.</hi> Johnſtoun the <hi>19</hi> day, Cuthbert in Langtan of the Mars the <hi>20</hi> day, Lady day in Weſtweems: Bamff, and Auchtermuchty the <hi>25</hi> day, Palm ſunday at the Kerk of Forrig and in S. Johnſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and Skyer<g ref="char:EOLhyphen"/>thurſday fair in upon thurſday before Good-friday, at Cowper of Angus: Otherwiſe Monks-Cowper. A fair in Forreſs, called <hi>S.</hi> Marks fair, the firſt tueſday after Eaſter.</p>
+            </div>
+            <div n="April" type="month">
+               <head>XXX. April begins on Wedneſday. Sun riſeth <hi>53</hi> min. before <hi>6</hi> ſets <hi>53</hi> min. paſt <hi>6.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Firſt quarter on Fryday day; 55 min: paſt 5 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Full Moon on Friday 10 day, 18 min. paſt 10 morning<g ref="char:punc">▪</g>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Friday 17 day, 14 min: paſt 9 at night.</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:30114:5"/>
+                     <hi>New Moon on Saturday 25 day, paſt 9 at night.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with cold rains, to the 10 good Spring weather, 11 rain, to the 15 fair, 17 18 rain and wind, 19 fair, 20 22 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 24 rain and windy, 25 26 27 28 fair, 29 30 windy.</hi>
+               </p>
+               <p>A fair at Langhomle the <hi>1</hi> day of April, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh on tueſday before Eaſter, in Carſtorphi <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the fyft tueſday after Eaſter a fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Saint Donald fair at the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Achthe eſs <hi>17</hi> day, Mark Evangel in Dyſer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>23</hi> day, Be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tan da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the first, the <hi>26</hi> day, a fair at Rugla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the <hi>28</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay contin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing four days, at Leven the <hi>29</hi> day, and in Kilren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the <hi>30</hi> day<g ref="char:punc">▪</g> at Dalkeith u<g ref="char:EOLhyphen"/>pon the laſt tueſday of this moneth.</p>
+               <p>
+                  <hi>Whiles in March, and whiles in April.</hi>
+               </p>
+               <p>Sk<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rthurſday before Paſch, in Glaſgow, Dumbartan, Cow<g ref="char:EOLhyphen"/>per of Aug<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Elg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of Murray, Paſchmund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in Cowper of Fife, Lan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk, and Irwin, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wſunday after Paſch in K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and all the week after at the SenZ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of Saint Andrews.</p>
+            </div>
+            <div n="May" type="month">
+               <head>XXXI. May begins on Friday. Sun riſeth <hi>2</hi> min. before <hi>4,</hi> ſets <hi>2</hi> min paſt <hi>8.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Firſt quarter on Sunday 2 day, 10 min. before high-noon.</hi>
+                  </item>
+                  <item>
+                     <hi>Full Moon on Saturday 9 day, 12 min: paſt 8 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Sunday 17 day, 4 min: paſt 2 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Munday 25 day, at 9 a clock in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>May begins with fair weather, and doth ſtill, 6 rain, from thence to the 20 fair Spring weather, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> rain, to the 25 fair, 26 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7 rain, to the end of the mo<g ref="char:EOLhyphen"/>neth good Spring weather.</hi>
+               </p>
+               <p>The firſt day of May, called, Philip, a fair in the Grange within the Sheriffdom of Lanithg <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w.</p>
+               <p>Holy Croſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cond Bel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us, in Monroſs, Kinrocher and in Peebles the <hi>3</hi> day, at Carlouk and Dryman in the Le<g ref="char:EOLhyphen"/>nox (with a weekly mercare every thurſday) the <hi>10</hi> day <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bamff and at Kirkaldy, a fair of Horſe, Neat and She<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p, &amp;<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. the <hi>16</hi> day<g ref="char:punc">▪</g> and in Sterling <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fair <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> daye: before Whitſunday, Aſcenſion day at the bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh of Annam.</p>
+               <p>
+                  <hi>Whiles in May, and whiles in June.</hi>
+               </p>
+               <p>Whitſonmunday in Glaſgow, Dumbartan, Lanerk, and Jed<g ref="char:EOLhyphen"/>burgh, Whitſontueſday, called Pardon-day, in the Chanrey of
+<pb facs="tcp:30114:6"/>
+Roſs, and at the Kirk of Ninans above Kircaldy, Trinity munday in Edinburgh, and Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bin <hi>3</hi> dayes: in <hi>S.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one day, in Bruntiland o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e day a fair in Kilſyth the friday before Whitſunday, A fair in the Burgh of Linlithgow, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſt thurſday after Whitſunday. Trinity tueſday in England laſting <hi>2</hi> dayes, Trinity thurſday in Falkland.</p>
+            </div>
+            <div n="June" type="month">
+               <head>XXX. June begins on Munday. Sun riſeth <hi>45</hi> min. before <hi>4,</hi> ſets <hi>45</hi> min. paſt <hi>8.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Firſt quarter on Munday 1 day, 7 min, paſt 5 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full Moon on Tueſday 9 day, 50 min: paſt 7 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Friday 10 day, 23 min: paſt 8 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Tueſday 23 day, 33 min. paſt 6 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter on Tueſday <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0 day, 20 min. paſt 10 for noon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Iune begins with rain, thunder and lightning, from thence good weather, 6 windy, indifferent to the 15 16 17 18 rain: to the 27 fair, from thence of the end of the moneth, or about 28 29 30 good weather</hi>
+               </p>
+               <p>A fair in Kinroſs the first tueſday of June, in Longnewtoun the 5 day, Stram<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glo Aberac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and Ennerkeithing the <hi>6</hi> day, A weekly mercat in Forfar the beginning the <hi>8</hi> of June, of Neat, Sheep, Horſe, &amp;c. continuing till the first of October, at Bigger the ſecond tueſday, fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Neat, Sheep and Horſe, a fair on Drymen the <hi>9</hi> day, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>org<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndeny the <hi>10.</hi> S. Barna<g ref="char:EOLhyphen"/>bie in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awder and Dyſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, S. Lawrence in Grinnock <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day; the ſame day th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is a fair in D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rltoun, with a weekly mercat every wedneſday: alſo, there is a fair at Preſton-pan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame day, with a weekly mercat every tueſday, S. Margaret in Abernethy, Ceres in Fife <hi>13</hi> day, Midſummer on S. Johns day in S. Johnstoun five days, in Air four days, in Wigton, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amff, Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elſton, and Meiklou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Perth-ſhire, (with a week<g ref="char:EOLhyphen"/>ly mercat every wedneſday) <hi>14</hi> day: in Auchtertuil <hi>15</hi> day, A fair at Clackmanan <hi>15</hi> day, at Laddiſdail <hi>18,</hi> &amp; at Scoon the <hi>16, 17 18</hi> days with a weekly merca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every thurſday. A fair as the Burgh of Annan the third tueſday of June: <hi>S.</hi> Margaret in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umfermling, and at Moffet <hi>18</hi> day, in which place there is a week<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y mercat every friday. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aritſtoun <hi>19</hi> day. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his fair holden at Colrain in Roſs-ſhire, the <hi>20</hi> day: Meshil, near Levens-mouth <hi>22</hi> day, Midſummerday in F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ireſs the <hi>2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> day,
+<pb facs="tcp:30114:6"/>
+and at Townyetam on the Border, the <hi>24</hi> day, of Horſe, Neat and Sheep, &amp;c. with a weekly mercat. In <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> called <hi>S.</hi> Emagola, and at the town of N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>colſan the <hi>25</hi> day. S. Peters day at Forfar <hi>26</hi> day, holding four days. As alſo: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Faulkland Brunteland, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amff, Kelſo, <hi>26</hi> day, Gal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</hi> day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Peebles <hi>29</hi> day<g ref="char:punc">▪</g> S. Seriff fair the laſt tueſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of this moneth, S. Iohn the Baptiſt day, a fair in Fraſerburgh the <hi>24</hi> day.</p>
+            </div>
+            <div n="July" type="month">
+               <head>XXXI. July begins on Wedneſday. Sun riſeth <hi>36</hi> min. before <hi>4.</hi> ſets <hi>36</hi> min. paſt <hi>8.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Full Moon on Tueſday 7 day, 28 min. paſt 8 at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Wedneſday 15 day, at mid-night.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Thurſday 23 day, 29 min. paſt 2 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quar<g ref="char:punc">▪</g> on Wedneſday 29 day, 30 min. paſt 5 afternoon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Iuly entreth fair, and doth continue till the 6, 7 ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l and thunder, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the 23 fair, 24 windy, rain, thunder and lightening, 28 wind and weet.</hi>
+               </p>
+               <p>A fair in the Stow the <hi>1</hi> day of this moneth holding <hi>2</hi> days, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd at Ed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erstoun upon the Border, for all ſorts of Cattel, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd in Culroſs, &amp; Bigger the <hi>1</hi> day: Abernethy and Auchter<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughey <hi>2</hi> day, S Martin of Bulze<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>4</hi> day, <hi>S.</hi> Thomas <hi>5</hi> day, <hi>S.</hi> Palladius in Forden in the Mernes <hi>6</hi> day <hi>S.</hi> Andrew in Glaſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>7</hi> day, a fair in the burgh of An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, &amp; at Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>keith <hi>2</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ueſday of this moneth, in Kilwinning <hi>2</hi> day, the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9</hi> S. Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ares in V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, <hi>6</hi> days at the Kirk of Forr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, the third tueſ<g ref="char:EOLhyphen"/>day in this moneth: Moffat, and at Kirkaldy, a fa r of Horſe, Nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Sheep, &amp;c. the <hi>18</hi> day, a fair in Stirling the <hi>20</hi> day, Magdalen day in Lauder <hi>22</hi> day, with a weekly mercat very friday, Mary Magdalene in Linlithgow, Pettenweem, and Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>head <hi>22,</hi> in A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th &amp; Chriſtina in Corſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phine <hi>24</hi> day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iames in Forfar Cowper of F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe Lanerk, &amp; Roxburgh King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>way, Elg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in Murray, and on Muſselburgh the <hi>2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Po<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> fair in Inver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey and Lambas fair in Turreff both on the last tueſday. The laſt thurſday of Iuly a fair in Leſly, and Whith<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm <hi>2</hi> days. At Longh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>love <hi>15</hi> day of this moneth.</p>
+            </div>
+            <div n="August" type="month">
+               <pb facs="tcp:30114:7"/>
+               <head>XXXI. Auguſt begins on Saturday. Sun riſeth <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8</hi> min before <hi>5,</hi> ſets <hi>28</hi> min paſs <hi>7.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Full Moon on Thurſd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y 9 day, 18 min. paſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in the forenoo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Friday 14 day, 21 min. paſt 2 after <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Friday 21 day, 9 min. paſt 10 i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the forenoon</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter on Saturday 28 day, 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> min. p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins having Saturn retr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rade a<g ref="char:EOLhyphen"/>bout, which time for many days together there wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> rain, yet be not diſmayed Husband-men the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> alſo rain, the 23 windy, to the end fair.</hi>
+               </p>
+               <p>Lambmaſday in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etruſe <hi>3</hi> days long, and in Melroſe, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uer<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eithing <hi>S.</hi> Andrews, and in Dumbartan the <hi>1</hi> day, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckerbie in Annan <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>2</hi> day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f this mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fair in Rain the firſt tueſday and thurſday after in Falkand in Kelſyth <hi>5</hi> day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lour the <hi>7,</hi> S. Lawrence in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Auchtermuch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and in Forres <hi>10</hi> day, in Ram <hi>2</hi> days before Kiimabag, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the burn of Campſie, at Dam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1</hi> day Lady day in Dundee, Bamff, Mer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alley-field th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>15</hi> day the <hi>20</hi> day a fair at Rugland <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> days with a weekly mercat e ery Munday, the <hi>22</hi> a fair at Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on <hi>3</hi> days, with a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every thurſday <hi>S.</hi> Col<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yman the <hi>23.</hi> Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tholomew A<g ref="char:EOLhyphen"/>postle in Linlithgow, Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>karn of Neel and in Clackma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and Peebles the <hi>24</hi> day, S. Zephers us in Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſturphine the <hi>26</hi> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y a fair; Sama<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s day in Forres <hi>27</hi> day, and <hi>S.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bus day in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Iohnſtoun, and in Lauder the <hi>28</hi> day.</p>
+            </div>
+            <div n="September" type="month">
+               <head>XXX. September begins on Tueſday. Sun riſeth <hi>27</hi> min. before <hi>6.</hi> ſets <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</hi> min. paſt <hi>6.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Full Moon on Saturday 5 day, 28 min, paſt 3 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Sunday 13 day, 43 min paſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Saturday 19 day, 6 min. paſt 9 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter on Saturday 26 day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t 12 min. paſt 4. afternoon</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The firſt 6 days fair, 7 rain, 9 and 10 cold winds, with ſome rain. to the end of the moneth fair weather, with gentle ſhour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Saint Giles in Elgin <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, in Moffat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, in Skirla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and at Caſtlesoun in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iadſhall the <hi>4</hi> day Latter Lady-day in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eering, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undee and Bamff <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, As B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gger the third wedneſday, for
+<pb facs="tcp:30114:7"/>
+Horſe, Neat Sheep &amp;c. Rudeday in Caril<g ref="char:punc">▪</g> Jedburgh, Dauid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmling, Dumſre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; Athelſton <hi>24</hi> day at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>engnenton <hi>23</hi> day <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; Sala<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>11</hi> day a fair at Forfar the <hi>15</hi> day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a fair at Kircaldy of Horſt Neat &amp; Sheep, &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day<g ref="char:punc">▪</g> in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aw the <hi>23</hi> day with a weekly mercat every <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Roſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire fryday. Mat. Apoſtle in Linlithgow <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day, a fair <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Col<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n called S. Georges fair <hi>25</hi> day; fair at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Nicolſon the <hi>27</hi> day, a fair at Tranent the ſame day with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> weekly mercat every Saturday, Saint Michael in Hadington, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire, <hi>S.</hi> Andrews, Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ef, Kirkubright, Gallaſhials, and of the Kirk of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ttig, the <hi>20</hi> day, a fair at the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſame day, S. Ierome in Bamff the laſt day.</p>
+            </div>
+            <div n="October" type="month">
+               <head>XXXI. October begins on Thurſday. Sun riſeth <hi>14</hi> min. before <hi>7,</hi> ſets <hi>14.</hi> min. paſt <hi>5.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Full <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oon on Sunday 4 day, 22 min. paſt 8 at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Munday 12 day, at noon-tide.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon Munday 19 day, 23 min, paſt 3 morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter on Munday 26 day, 49 min. paſt 9 morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The 1 2 3 and 4 are rainy and ſtor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ite, to the end at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> moneth reaſonable weather, with ſome rain or ſnow</hi>
+               </p>
+               <p>The <hi>1 2 3</hi> a fair in Salt Preſton, at L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bia in Annandail <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>2</hi> day, with a weekly mercat every thurſday of horſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>p, and all other comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dities, <hi>S.</hi> Franci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Abernethy, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>allyfield<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>letoun in Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deſd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the <hi>4</hi> day, with a weekly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every fryday <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>klou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and at Edzerstoun on the So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der, for all ſorts of Cattel the <hi>5</hi> day, in Cowper of F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe <hi>6</hi> day far at the town Low-head of Leſſwa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al the <hi>8</hi> day Dreuiſe in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Earlſton Kirki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eilloch, Acton Auchter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in Fife, and in Killimuire and Moffat the <hi>9</hi> day, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lkeith <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hol <hi>10</hi> day, at Ennerkeithing t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>12</hi> day, Fena<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unning the <hi>13</hi> day in Forg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndenny and Drym<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the <hi>15</hi> day at Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgh the <hi>16</hi> day <hi>S.</hi> Luke in Lander, Kinroſe &amp; Rugland <hi>8</hi> day Townyettam on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oraer, <hi>20</hi> day, of Horſe, Neat, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep, &amp;c with a weekly mercat <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Irena<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſtor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hine and at the Kirk of Carloc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k <hi>20</hi> day with weekly mercat every Wedneſday Mary Salamin in S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erlore, and Kelſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2</hi> day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a fair at Forfar <hi>24</hi> day, holding eight days <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lin<g ref="char:EOLhyphen"/>thgow <hi>14,</hi> in Kel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ram<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gle and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>almelle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:30114:8"/>
+                  <hi>25</hi> Fowler fair in Paſley, and Falkirk <hi>26</hi> day, Simon and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Roſlin (with a weekly mercat every Saturday) Dyſert, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>kirk Cockanie, Begger and Kirkleſton <hi>28</hi> day, in Alloway <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at Nicolſon the <hi>29</hi> day; The laſt Thurſday of this moneth fair in Whithorn holding two days.</p>
+            </div>
+            <div n="November" type="month">
+               <head>XXX. November begins on Sunday. Sun riſeth <hi>27</hi> min. before <hi>8,</hi> ſets <hi>27</hi> min. paſt <hi>4.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Full Moon on Tueſday <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> day, 14 min. paſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter on Tueſday 10 day. 8 min. paſt 9 at night.</hi>
+                  </item>
+                  <item>
+                     <hi>New Moon on Tueſday 17 day, at 3 afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt quarter on Wedneſday 25 day, 33 min. paſt 6 morni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with ſnow or rain, to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> froſtie with ſome ſnow, about the 19 windy, to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 23 good weather, 27 rain or ſnow.</hi>
+               </p>
+               <p>Hallow-day in Edinburgh <hi>8</hi> days, in Falkland, Dumbia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>1</hi> day in Aloth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>2</hi> day, in Kilwinning the <hi>3</hi> day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLunhyphen"/>nard in Lanerk, in Forres, and in Largo the <hi>6</hi> day; alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a weeklie mercat in Largo everie friday. <hi>S.</hi> Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. in D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bar, Melroſs, Mantinskirk, Strabogie, Cowper of Fife, Hami<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ton, Culreſs, Kilmahug, <hi>11</hi> day: a fair at Kilſyth the <hi>12</hi> day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>S.</hi> Clement in Dundee <hi>13</hi> day, <hi>S.</hi> Helene day at Grinock <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day a fair at Doun in Monreeth <hi>15</hi> day; Margaretmeſs in Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fermleng and Lawder the <hi>16</hi> day, <hi>S.</hi> Machharmuch in Tam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Auchtertuil <hi>22</hi> day, Brun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eland <hi>23 S.</hi> Andrew in S. Johnſtoun Peebles and Chirnſide <hi>30</hi> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y:</p>
+            </div>
+            <div n="December" type="month">
+               <head>XXXI. December begins on Tueſday. Sun riſeth <hi>17</hi> min. before <hi>9,</hi> ſets <hi>17</hi> min. paſt <hi>3.</hi>
+               </head>
+               <list>
+                  <item>Full Moon on Thurſday 3 day, 16 min. paſt 5 morning.</item>
+                  <item>Laſt quarter on Thurſday 10 day, 23 min. paſt 5 morning.</item>
+                  <item>New Moon on Thurſday 17 day, 6 min. paſt 5 morning.</item>
+                  <item>Firſt quarter on Friday 25 day, 20 min. paſt 4 morning.</item>
+               </list>
+               <p>
+                  <hi>From the</hi> 1 <hi>to the</hi> 11 <hi>froſtie,</hi> 12 <hi>ſnow or rain, and to the end of the moneth good ſeaſonable winter wea<g ref="char:EOLhyphen"/>ther.</hi>
+               </p>
+               <p>
+                  <hi>Saint Nicholas in Aberdene</hi> 7 <hi>day Lady day in Weſtwa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 8 <hi>day, a fair at L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ven the</hi> 13 <hi>day;</hi> St <hi>Duſtane in Bamff, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
